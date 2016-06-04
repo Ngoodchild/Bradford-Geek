@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradford Geek</title>
+    <description>First template
+</description>
+    <link>http://bradfordgeek.com/</link>
+    <atom:link href="http://bradfordgeek.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 Jun 2016 20:03:37 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Jun 2016 20:03:37 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Muhammed Ali</title>
+        <description>&lt;p&gt;Muhammed Ali died last night. He was the rarest of things: a sportsman worthy of the adulation that he received.&lt;/p&gt;
+
+&lt;p&gt;One of the most iconic images of him is him standing over a prone opponent, roaring down at him. The allegation is that, far from being a bellow of triumph, he was yelling for the man to get up, having not landed a blow that would cause such a response. It’s said that the man had thrown the fight, and Ali was overheard asking whether he had actually even hit him. It’s the “phantom punch” and shows Ali to be a man who wasn’t driven to win at any costs, rather as a man of such skill and ability that he was fully aware of what he did and what response it would elicit. He consistently won and came back from his few losses with purpose and precision.&lt;/p&gt;
+
+&lt;p&gt;More than that; he was admirable. In a sport that appears to regularly reward thugs, where sexism, misogyny, domestic abuse and rape is ignored and forgotten, Ali stood as a principled and courageous man. He was punished for this. He faced prejudice and hostility. And he rose above it all, overcame it, to leave a legacy that transcends the sport and makes him an icon, a hero, that everyone can and should be inspired by.&lt;/p&gt;
+
+&lt;p&gt;He was a man of self belief, of grace, of poise and of dignity. He was the greatest, but not just in the ring.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jun 2016 19:44:00 +0100</pubDate>
+        <link>http://bradfordgeek.com/current/events/2016/06/04/muhammed-ali.html</link>
+        <guid isPermaLink="true">http://bradfordgeek.com/current/events/2016/06/04/muhammed-ali.html</guid>
+        
+        
+        <category>current</category>
+        
+        <category>events</category>
+        
+      </item>
+    
+  </channel>
+</rss>
